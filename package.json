@@ -1,0 +1,25 @@
+{
+  "name": "jm-mkdirs",
+  "version": "0.0.1",
+  "description": "A useful node_module to make multi-level directories.",
+  "main": "mkdirs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenJiaH/jm-mkdirs.git"
+  },
+  "keywords": [
+    "mkdirs",
+    "jm",
+    "node"
+  ],
+  "author": "McChen",
+  "email": "chenjiahao@jd.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChenJiaH/jm-mkdirs/issues"
+  },
+  "homepage": "https://github.com/ChenJiaH/jm-mkdirs#readme"
+}
